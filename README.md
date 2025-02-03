@@ -19,6 +19,6 @@ B.Tech Information Technology Student
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=Tiro%20Bangla&ext=activity)](https://leetcode.com/M_Dinesh)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=Tiro%20Bangla&ext=activity)](https://leetcode.com/Dinesh_coder30)
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshit27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/dineshit27/github-readme-activity-graph)
