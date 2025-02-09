@@ -7,7 +7,7 @@ B.Tech Information Technology Student
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinesh-m-029a0829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](m.dinesh.it27@gmail.com) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinesh-m-029a0829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](**m.dinesh.it27@gmail.com**) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==)
 - 😄 Pronouns: Technophile
 
 ### I code in
