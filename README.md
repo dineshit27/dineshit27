@@ -6,6 +6,8 @@ B.Tech Information Technology Student
 - 📊 Knowledge in Data Analytics
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech
+- 👨‍💻 About my coding :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.skillrack.com/profile/444147/Skillrackresume430app) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://leetcode.com/u/Dinesh_coder30/) 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinesh-m-029a0829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==) **m.dinesh.it27@gmail.com**
 - 🤓 Pronouns: Technophile
