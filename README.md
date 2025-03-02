@@ -8,7 +8,8 @@
 </h3>
 
 B.Tech Information Technology Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
+<img align="right" alt="Coding" width="450" height=auto src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
 - 💻 Aspiring Full Stack Developer
 - 📊 Knowledge in Data Analytics
 - 🎨 Founder & Freelancer in JDM Studio430
