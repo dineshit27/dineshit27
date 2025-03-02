@@ -1,5 +1,5 @@
 <img align="right" src="images/header.png" alt="dinesh30" >
-<br><br><br><br>
+<br><br><br><br><br>
 <hr>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -40,6 +40,8 @@
  <img src="https://profile-counter.glitch.me/dineshit27/count.svg?"  />
 </div>
 <h3/>
+
+<hr>
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
 
