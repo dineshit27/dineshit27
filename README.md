@@ -1,5 +1,10 @@
 <img align="right" src="images/header.png" alt="dinesh30" >
-## Hello 🤝 It's me Dinesh
+<br>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
+  </a>
+</h3>
 
 B.Tech Information Technology Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
