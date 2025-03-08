@@ -30,7 +30,7 @@
 
 ## 🔥 Featured Projects
 
-🚀 **[JDM STUDIO430 WEBSITE](https://jdm-studio430.netlify.app/)** - A Website for my freelancing studio
+🚀 **[JDM STUDIO430 WEBSITE](https://jdm-studio430.netlify.app/)** - This website is a showcase of JDM Studio430's creative works, offering a clean, responsive, and engaging digital experience for visitors.
 
 🚀 **[JDM COFFEE PORT](https://jdm-coffee-port.netlify.app/)** - This is a modern, responsive website designed to showcase our premium range of coffee beans and products.
 
