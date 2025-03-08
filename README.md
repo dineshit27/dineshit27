@@ -34,7 +34,7 @@
 
 🚀 **[JDM COFFEE PORT](https://jdm-coffee-port.netlify.app/)** - A Website for my freelancing studio
 
-🚀 **[JDM DESIGNER PORTFOLIO](https://jdm-designer-portfolio.netlify.app/)** - A Website for my freelancing studio
+🚀 **[JDM DESIGNER PORTFOLIO](https://jdm-designer-portfolio.netlify.app/)** - This is a personal portfolio showcasing the skills, projects, and work of a talented designer
 
 <hr>
 
