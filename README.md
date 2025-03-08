@@ -11,7 +11,7 @@
 - 💻 Aspiring Full Stack Developer
 - 📊 Knowledge in Data Analytics
 - 🎨 Founder & Freelancer in JDM Studio430
-- 🔭 Here's my studio [portfolio](https://jdm-studio430.netlify.app/)
+- 🔭 Here's my studio [website](https://jdm-studio430.netlify.app/)
 - 💬 Ask me about Tech
 - 👨‍💻 About my coding :
 <br /> [<img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="laptop-coding" />](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [<img src="https://img.icons8.com/color/48/code.png" alt="code" />](https://leetcode.com/u/Dinesh_coder30/) 
