@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
   </a>
 </h3>
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - 💻 Aspiring Full Stack Developer
 - 📊 Knowledge in Data Analytics
