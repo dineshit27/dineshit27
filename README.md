@@ -8,7 +8,7 @@
 </h3>
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- 📑 Explore my [resume]()
+- 📑 Explore my [resume](https://github.com/dineshit27/dineshit27/raw/main/DINESHRESUME.pdf)
 - 💻 Aspiring Full Stack Developer
 - 📊 Knowledge in Data Analytics
 - 🎨 Founder & Freelancer in JDM Studio430
