@@ -1,6 +1,4 @@
-<img align="right" src="images/header.png" alt="dinesh30" >
-<br><br><br>
-<hr>
+<img align="center" src="images/header.png" alt="dinesh30" >
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
@@ -10,7 +8,6 @@
 
 - 📑 Explore my [resume](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
 - 💻 Aspiring Full Stack Developer
-- 📊 Knowledge in Data Analytics
 - 🎨 Founder & Freelancer in JDM Studio430
 - 🔭 Here's my studio [website](https://jdm-studio430.netlify.app/)
 - 💬 Ask me about Tech
