@@ -7,7 +7,7 @@
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - 📑 Explore my [resume](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
-- 💻 Aspiring Full Stack Developer
+- 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
 - 🔭 Here's my studio [website](https://jdm-studio430.netlify.app/)
 - 💬 Ask me about Tech
