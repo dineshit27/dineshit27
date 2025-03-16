@@ -33,7 +33,7 @@
 
 [![JDM Coffee Port](https://img.shields.io/badge/☕%20JDM%20Coffee%20Port-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-coffee-port.netlify.app/) <br> Modern, responsive site showcasing premium coffee beans and products.
 
-[![JDM Designer Portfolio](https://img.shields.io/badge/💡%20JDM%20Designer%20Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) Highlights skills, projects, and professional work of a talented designer.
+[![JDM Designer Portfolio](https://img.shields.io/badge/💡%20JDM%20Designer%20Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-designer-portfolio.netlify.app/) <br> Highlights skills, projects, and professional work of a talented designer.
 
 <hr>
 
