@@ -29,11 +29,11 @@
 ## 🔥 Featured Projects
 <br>
 
-🚀 **[JDM STUDIO430 WEBSITE](https://jdm-studio430.netlify.app/)** - Clean, engaging, and responsive platform for JDM Studio430's creative works.
+[![JDM Studio430 Website](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
 
-☕ **[JDM COFFEE PORT](https://jdm-coffee-port.netlify.app/)** - Modern, responsive site showcasing premium coffee beans and products.
+[![JDM Coffee Port](https://img.shields.io/badge/☕%20JDM%20Coffee%20Port-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-coffee-port.netlify.app/) <br> Modern, responsive site showcasing premium coffee beans and products.
 
-💡 **[JDM DESIGNER PORTFOLIO](https://jdm-designer-portfolio.netlify.app/)** - Highlights skills, projects, and professional work of a talented designer.
+[![JDM Designer Portfolio](https://img.shields.io/badge/💡%20JDM%20Designer%20Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) Highlights skills, projects, and professional work of a talented designer.
 
 <hr>
 
