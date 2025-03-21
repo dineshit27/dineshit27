@@ -14,7 +14,7 @@
 - 👨‍💻 About my coding :
 <br /> [<img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="laptop-coding" />](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [<img src="https://img.icons8.com/color/48/code.png" alt="code" />](https://leetcode.com/u/Dinesh_coder30/) 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/m-dinesh-jdm430d07?) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/m-dinesh-jdm430) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==)
 <a href="mailto:m.dinesh.it27@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 - 🤓 Pronouns: Technophile
 
