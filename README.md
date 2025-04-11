@@ -31,9 +31,11 @@
 
 [![JDM Studio430 Website](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
 
-[![JDM Coffee Port](https://img.shields.io/badge/☕%20JDM%20Coffee%20Port-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-coffee-port.netlify.app/) <br> Modern, responsive site showcasing premium coffee beans and products.
+[![JDM Park430 Website](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-park.netlify.app/) <br> Modern and elegant hotel e-commerce website, designed to offer a smooth and visually stunning user experience.
 
-[![JDM Designer Portfolio](https://img.shields.io/badge/💡%20JDM%20Designer%20Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-designer-portfolio.netlify.app/) <br> Highlights skills, projects, and professional work of a talented designer.
+[![Tech Hub430](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://tech-hub430.netlify.app/) <br> Modern & intuitive e-commerce website tailored for tech enthusiasts.
+
+[![JDM Coffee Port](https://img.shields.io/badge/☕%20JDM%20Coffee%20Port-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-coffee-port.netlify.app/) <br> Modern, responsive site showcasing premium coffee beans and products.
 
 <hr>
 
