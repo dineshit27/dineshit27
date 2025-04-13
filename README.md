@@ -6,7 +6,7 @@
 </h3>
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- View my [PORTFOLIO](https://mdinesh-portfolio.netlify.app/)
+- 🤖 View my [PORTFOLIO](https://mdinesh-portfolio.netlify.app/)
 - 📑 Explore my [resume](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
@@ -30,7 +30,7 @@
 ## 🔥 Featured Projects
 <br>
 
-[![Dinesh's Portfolio](https://img.shields.io/badge/🚀%20Dinesh's%20Portfolio%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://mdinesh-portfolio.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
+[![Dinesh's Portfolio](https://img.shields.io/badge/🚀%20Dinesh's%20Portfolio%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://mdinesh-portfolio.netlify.app/) <br> personal portfolio website, showcasing my skills, freelance projects, and my journey in the world of design and data analytics. 
 
 [![JDM Studio430 Website](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
 
