@@ -7,10 +7,10 @@
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - 🤖 View my [PORTFOLIO](https://mdinesh-portfolio.netlify.app/)
-- 📑 Explore my [resume](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
+- 📑 Explore my [RESUME](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
+- 🔭 Here's my studio [WEBSITE](https://jdm-studio430.netlify.app/)
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
-- 🔭 Here's my studio [website](https://jdm-studio430.netlify.app/)
 - 💬 Ask me about Tech
 - 👨‍💻 About my coding :
 <br /> [<img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="laptop-coding" />](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [<img src="https://img.icons8.com/color/48/code.png" alt="code" />](https://leetcode.com/u/Dinesh_coder30/) 
