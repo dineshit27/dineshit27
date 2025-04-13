@@ -30,6 +30,8 @@
 ## 🔥 Featured Projects
 <br>
 
+[![Dinesh's Portfolio](https://img.shields.io/badge/🚀%20Dinesh's%20Portfolio%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://mdinesh-portfolio.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
+
 [![JDM Studio430 Website](https://img.shields.io/badge/🚀%20JDM%20Studio430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-studio430.netlify.app/) <br> Clean, engaging, and responsive platform for JDM Studio430's creative works.
 
 [![JDM Park430 Website](https://img.shields.io/badge/🏨%20JDM%20Park430%20Website-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white&colorA=1DA1F2&colorB=007BFF)](https://jdm-park.netlify.app/) <br> Modern and elegant hotel e-commerce website, designed to offer a smooth and visually stunning user experience.
