@@ -61,7 +61,10 @@
 
 <hr>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=Tiro%20Bangla&ext=activity)](https://leetcode.com/Dinesh_coder30)
+<h2 align="center">Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+</p>
 
 <hr>
 
