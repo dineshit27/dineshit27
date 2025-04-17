@@ -13,7 +13,7 @@
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech
 - 👨‍💻 About my coding :
-<br /> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)) [![SkillRack](https://img.shields.io/badge/SkillRack-316192?style=for-the-badge&logo=codechef&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430)
+<br /> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/) [![SkillRack](https://img.shields.io/badge/SkillRack-316192?style=for-the-badge&logo=codechef&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430)
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/m-dinesh-d30) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_dinx_pvt_430?igsh=MTF3NTQ4YmxkcWg0OA==)
 <a href="mailto:m.dinesh.it27@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8122129450)
