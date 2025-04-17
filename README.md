@@ -11,7 +11,7 @@
 - 🔭 Here's my studio [WEBSITE](https://jdm-studio430.netlify.app/)
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
-- 💬 Ask me about Tech
+- 💬 Ask me about Tech & Design
 - 👨‍💻 About my coding :
 <br /> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/) [![SkillRack](https://img.shields.io/badge/SkillRack-316192?style=for-the-badge&logo=codechef&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430)
 - 📫 How to reach me :
