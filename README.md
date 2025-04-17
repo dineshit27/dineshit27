@@ -6,6 +6,11 @@
 </h3>
 <img align="right" width="370" height="250" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Projects%20%26%20Works-blue?style=for-the-badge" alt="Collaboration Badge"/>
+</div>
+<br>
+
 - 🤖 View my [PORTFOLIO](https://mdinesh-portfolio.netlify.app/)
 - 📑 Explore my [RESUME](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
 - 🔭 Here's my studio [WEBSITE](https://jdm-studio430.netlify.app/)
