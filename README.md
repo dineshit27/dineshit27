@@ -19,7 +19,8 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Aspiring Web Developer
-- 🎨 Founder & Freelancer in JDM Studio430
+- 🎨 Founder & Freelancer @ JDM Studio430
+- 🎓 B.tech IT student
 - 💬 Ask me about Tech & Design
 
 <hr>
@@ -51,7 +52,7 @@
 
 ###
 <h3 align="center">
-  <p>Futured Projects</p>
+  <p>🚀 Futured Projects</p>
 <table align="center">
   <tr>
     <td><strong>🤖 My Portfolio Website</strong></td>
@@ -102,7 +103,7 @@
 
 ###
 <h3 align="center">
-  <p>Leetcode Stats</p>
+  <p>👨‍💻 Leetcode Stats</p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
