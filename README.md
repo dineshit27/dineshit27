@@ -5,6 +5,7 @@
   </a>
 </h3>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<br>
 
 - 🤖 View my  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=internet-explorer&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
 - 📑 Explore my  [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
