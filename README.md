@@ -52,10 +52,10 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center">
-  <tr><td><strong>🔥 My Portfolio </strong></td><td><a href="https://mdinesh-portfolio.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>🔥 JDM Studio430 Website</strong></td><td><a href="https://jdm-studio430.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>Tech Hub430</strong></td><td><a href="https://tech-hub430.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>JDM Park</strong></td><td><a href="https://jdm-park.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>🤖 My Portfolio </strong></td><td><a href="https://mdinesh-portfolio.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>🔮 JDM Studio430 Website</strong></td><td><a href="https://jdm-studio430.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>💡Tech Hub430</strong></td><td><a href="https://tech-hub430.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>🏨 JDM Park</strong></td><td><a href="https://jdm-park.netlify.app/">VIEW</a></td></tr>
 </table>
 
 <hr>
