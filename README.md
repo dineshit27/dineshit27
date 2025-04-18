@@ -18,7 +18,7 @@
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech & Design
 - 👨‍💻 About my coding :<br>  [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
-- 📬 Contact Me :<br>  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) [![Gmail Badge](https://img.shields.io/badge/-dinesh.m%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450) <a href="https://www.instagram.com/_dinx_pvt_430/">
+- 📬 Contact Me :<br>  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450) <a href="https://www.instagram.com/_dinx_pvt_430/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="View Instagram">
 </a>
 
