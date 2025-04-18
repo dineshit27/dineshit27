@@ -24,8 +24,7 @@
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works<br>
-
-  ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Total_Views-2.5k-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Total_Stars-258-blue?logo=github)
+  ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-2.5k-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-258-blue?logo=github)
 <hr>
 
 ###
@@ -55,28 +54,28 @@
 
 ###
 <h3 align="center">
-  <p>🚀 Futured Projects</p>
+  <p>Futured Projects</p>
 <table align="center">
   <tr>
-    <td><strong>🤖 My Portfolio Website</strong></td>
+    <td><strong>My Portfolio Website</strong></td>
     <td><a href="https://mdinesh-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
     </a></td>
   </tr>
   <tr>
-    <td><strong>🔮 JDM Studio430 Website</strong></td>
+    <td><strong>JDM Studio430 Website</strong></td>
     <td><a href="https://jdm-studio430.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
     </a></td>
   </tr>
   <tr>
-    <td><strong>💡 Tech Hub430 Website</strong></td>
+    <td><strong>Tech Hub430 Website</strong></td>
     <td><a href="https://tech-hub430.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Tech Hub430">
     </a></td>
   </tr>
   <tr>
-    <td><strong>🏨 JDM Park Website</strong></td>
+    <td><strong>JDM Park Website</strong></td>
     <td><a href="https://jdm-park.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Park">
     </a></td>
