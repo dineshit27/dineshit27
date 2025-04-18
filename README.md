@@ -18,9 +18,9 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
+- 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer @ JDM Studio430
-- 🎓 B.tech IT student
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
 
