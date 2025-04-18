@@ -56,7 +56,7 @@
   <p>Futured Projects</p>
 <table align="center">
   <tr>
-    <td><strong>🤖 My Portfolio</strong></td>
+    <td><strong>🤖 My Portfolio Website</strong></td>
     <td><a href="https://mdinesh-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
     </a></td>
@@ -68,13 +68,13 @@
     </a></td>
   </tr>
   <tr>
-    <td><strong>💡 Tech Hub430</strong></td>
+    <td><strong>💡 Tech Hub430 Website</strong></td>
     <td><a href="https://tech-hub430.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Tech Hub430">
     </a></td>
   </tr>
   <tr>
-    <td><strong>🏨 JDM Park</strong></td>
+    <td><strong>🏨 JDM Park Website</strong></td>
     <td><a href="https://jdm-park.netlify.app/">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Park">
     </a></td>
