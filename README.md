@@ -1,21 +1,24 @@
-<img align="center" src="images/header.png" alt="dinesh30" >
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
-  </a>
-</h3>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/m-dinesh-d30/">DINESH</a> </h1>
+<!--- Adding Header Elements -->
+<div align="center">
+  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
+[![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
+[![Website Badge](https://img.shields.io/badge/-Website-9b59b6?style=flat&logo=google-chrome&logoColor=white)](https://jdm-studio430.netlify.app/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450)
+<a href="https://www.instagram.com/_dinx_pvt_430/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="View Instagram">
+</a>
+</div>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 🤖 View my  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=internet-explorer&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
-- 📑 Explore my  [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
-- 🔭 Here's my studio [![Website Badge](https://img.shields.io/badge/-Website-9b59b6?style=flat&logo=google-chrome&logoColor=white)](https://jdm-studio430.netlify.app/)
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech & Design
-- 👨‍💻 About my coding :<br>  [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
-- 📬 Contact Me :<br>  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450) <a href="https://www.instagram.com/_dinx_pvt_430/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="View Instagram">
-</a>
 
 <hr>
 
