@@ -98,6 +98,7 @@
   <p>🤖 Github Stats</p>
   
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshit27&layout=compact&&langs_count=8"/>
 
 <hr>
 
