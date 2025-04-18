@@ -27,7 +27,8 @@
 <hr>
 
 ## 🛠️ Tech Stack
-<h3 align="center">🛠️ Web development</h3>
+
+<h3 align="center">🌐 Web development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,mysql"/>
 </p>
@@ -56,7 +57,7 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center">
-   <tr><td><strong>🔥 ERP application </strong></td><td><a href="#">College project</a></td></tr>
+   <tr><td><strong>🔥 My Portfolio </strong></td><td><a href="#">College project</a></td></tr>
   <tr><td><strong>🔥 DK's Java Solutions</strong></td><td><a href="https://youtu.be/Drr9xaAgru8?si=RkZP8dbXJAIsZGuK">AI-driven Java & frontend learning platform</a></td></tr>
    <tr><td><strong>Fab Food</strong></td><td><a href="https://youtu.be/barE-6OOtso?si=gAB6firIiFBlYRt6">Swiggy clone</a></td></tr>
     <tr><td><strong>Save Life</strong></td><td><a href="https://youtu.be/HuXWSw10hcI?si=Uf8V1mNGYGHrQVov">AI based Application</a></td></tr>
