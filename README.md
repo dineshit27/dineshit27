@@ -26,7 +26,7 @@
 
 <hr>
 
-## 🛠️ Tech Stack
+<h2 align="center">⚙️ Tech Skills</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -61,7 +61,7 @@
 
 ###
 <h3 align="center">
-  <p> Profile View's</p>
+  <p>👥 Profile View's</p>
 <div align="center">
  <img src="https://profile-counter.glitch.me/dineshit27/count.svg?"  />
 </div>
@@ -69,11 +69,13 @@
 
 <hr>
 
+<h2 align="center">🤖 Github Stats</h2>
+
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
 
 <hr>
 
-<h2 align="center">Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs</h2>
+<h2 align="center">👨‍💻 Leetcode Stats</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
@@ -82,7 +84,7 @@
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshit27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/dineshit27/github-readme-activity-graph)
 
-## 💡 Fun Fact
+<h2 align="center">💬 Fun Fact</h2>
 
 > Coding is like magic; once you master the spells, the possibilities are endless! 📈✨
 
