@@ -16,7 +16,7 @@
 
 -----------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="250px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
