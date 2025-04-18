@@ -23,6 +23,7 @@
 - 🎨 Founder & Freelancer @ JDM Studio430
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
+- 🤝 Open to collaborate for projects & works
 
 <hr>
 
