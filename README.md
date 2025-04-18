@@ -21,6 +21,7 @@
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer @ JDM Studio430
 - 🎓 B.tech IT student
+- 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
 
 <hr>
