@@ -11,23 +11,21 @@
 </div>
 <br>
 
-- 🤖 View my [PORTFOLIO](https://mdinesh-portfolio.netlify.app/)
-- 📑 Explore my [RESUME](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
-- 🔭 Here's my studio [WEBSITE](https://jdm-studio430.netlify.app/)
+- 🤖 View my  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=internet-explorer&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
+- 📑 Explore my  [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
+- 🔭 Here's my studio [![Website Badge](https://img.shields.io/badge/-Website-9b59b6?style=flat&logo=google-chrome&logoColor=white)](https://jdm-studio430.netlify.app/)
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer in JDM Studio430
 - 💬 Ask me about Tech & Design
-- 👨‍💻 About my coding :<br>
-
-  [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-0A0A0A?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
-- 📬 Contact Me :<br>
-
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) [![Gmail Badge](https://img.shields.io/badge/-dinesh.m%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450)
-- 🤓 Pronouns: Technophile
+- 👨‍💻 About my coding :  [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
+- 📬 Contact Me :  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/) [![Gmail Badge](https://img.shields.io/badge/-dinesh.m%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450)
+- 🤓 Pronouns : Technophile
 
 <hr>
 
-<h2 align="center">⚙️ Tech Skills</h2>
+###
+<h3 align="center">
+  <p>⚙️ Tech Skills</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -50,12 +48,34 @@
 
 <hr>
 
-<h2 align="center">🚀 Featured Projects</h2>
+###
+<h3 align="center">
+  <p>Futured Projects</p>
 <table align="center">
-  <tr><td><strong>🤖 My Portfolio </strong></td><td><a href="https://mdinesh-portfolio.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>🔮 JDM Studio430 Website</strong></td><td><a href="https://jdm-studio430.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>💡Tech Hub430</strong></td><td><a href="https://tech-hub430.netlify.app/">VIEW</a></td></tr>
-  <tr><td><strong>🏨 JDM Park</strong></td><td><a href="https://jdm-park.netlify.app/">VIEW</a></td></tr>
+  <tr>
+    <td><strong>🤖 My Portfolio</strong></td>
+    <td><a href="https://mdinesh-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>🔮 JDM Studio430 Website</strong></td>
+    <td><a href="https://jdm-studio430.netlify.app/">
+      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>💡 Tech Hub430</strong></td>
+    <td><a href="https://tech-hub430.netlify.app/">
+      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Tech Hub430">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>🏨 JDM Park</strong></td>
+    <td><a href="https://jdm-park.netlify.app/">
+      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Park">
+    </a></td>
+  </tr>
 </table>
 
 <hr>
@@ -70,13 +90,17 @@
 
 <hr>
 
-<h2 align="center">🤖 Github Stats</h2>
-
+###
+<h3 align="center">
+  <p>🤖 Github Stats</p>
+  
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
 
 <hr>
 
-<h2 align="center">👨‍💻 Leetcode Stats</h2>
+###
+<h3 align="center">
+  <p>Leetcode Stats</p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
@@ -85,7 +109,9 @@
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshit27&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/dineshit27/github-readme-activity-graph)
 
-<h2 align="center">💬 Fun Fact</h2>
+###
+<h3 align="center">
+  <p>💬 Fun Fact</p>
 
 > Coding is like magic; once you master the spells, the possibilities are endless! 📈✨
 
