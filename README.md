@@ -1,5 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/m-dinesh-d30/">DINESH</a> </h1>
-<!--- Adding Header Elements -->
+<h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/m-dinesh-d30/">DINESH</a> </h2>
 <div align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
@@ -14,6 +13,9 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="View Instagram">
 </a>
 </div>
+
+-----------------------------------------------------------
+
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Aspiring Web Developer
