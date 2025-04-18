@@ -20,7 +20,7 @@
 
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
-- 🎨 Founder & Freelancer @ JDM Studio430
+- 🛸 Founder & Freelancer @ JDM Studio430
 - 👨‍💻 Web Developer @ NexusHive
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
