@@ -21,12 +21,12 @@
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
 - 🎨 Founder & Freelancer @ JDM Studio430
-- Web Developer @ NexusHive
+- 👨‍💻 Web Developer @ NexusHive
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
-- Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-20-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
-- My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-2.5k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-258-blue?logo=github)
+- 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-20-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-2.5k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-258-blue?logo=github)
 <hr>
 
 ###
