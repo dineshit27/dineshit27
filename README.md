@@ -28,25 +28,20 @@
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">🌐 Web development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,mysql"/>
-</p>
+<h3 align="left">🌐 Web development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,mysql"/>
 
-<h3 align="center">⚙️ Development Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,netlify,vercel"/>
-</p>
+<h3 align="left">⚙️ Development Tools</h3>
+<img src="https://skillicons.dev/icons?i=github,vscode,netlify,vercel"/>
 
-<h3 align="center">🔮 Graphic Design</h3>
-<p align="center">
-  
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<h3 align="left">🔮 Graphic Design</h3>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![PicsArt](https://img.shields.io/badge/PicsArt-00C3FF?style=for-the-badge&logo=picsart&logoColor=white)
 
-<h3 align="center">📑Data & Office</h3>
+<h3 align="left">📑Data & Office</h3>
 <p align="center">
   
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -57,21 +52,10 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <table align="center">
-   <tr><td><strong>🔥 My Portfolio </strong></td><td><a href="#">College project</a></td></tr>
-  <tr><td><strong>🔥 DK's Java Solutions</strong></td><td><a href="https://youtu.be/Drr9xaAgru8?si=RkZP8dbXJAIsZGuK">AI-driven Java & frontend learning platform</a></td></tr>
-   <tr><td><strong>Fab Food</strong></td><td><a href="https://youtu.be/barE-6OOtso?si=gAB6firIiFBlYRt6">Swiggy clone</a></td></tr>
-    <tr><td><strong>Save Life</strong></td><td><a href="https://youtu.be/HuXWSw10hcI?si=Uf8V1mNGYGHrQVov">AI based Application</a></td></tr>
-  <tr><td><strong>💼 DK's Job Portal</strong></td><td><a href="https://youtu.be/h4Xdw9kJx5I?si=aX-xAjdKX_OneRUl">Placement portal for DK Institute</a></td></tr>
-  <tr><td><strong>🛒 DK's Shopping Mart</strong></td><td><a href="https://youtu.be/mxIsUyh_IZo?si=c0k5xHkkRD1UgF-Z">Full-stack e-commerce application</a></td></tr>
-  <tr><td><strong>🔍 DK's Search Engine</strong></td><td><a href="https://youtu.be/nd5BVeHq1Qg?si=R0BqE5gglNK65T6W">Search engine indexing 500+ sites</a></td></tr>
-  <tr><td><strong>💻 DK's Coding Platform</strong></td><td><a href="https://youtu.be/vpLkG5J8oQo?si=z960myWmr3ffaqh1">Online multi-language compiler</a></td></tr>
-  <tr><td><strong>🏫 College Management System</strong></td><td><a href="https://youtu.be/5IChLrZge58?si=m-cMNYIJi-njbHRr">Admin, staff, student dashboard</a></td></tr>
-  <tr><td><strong>📚 Library Management</strong></td><td><a href="https://youtu.be/b26T8JFV5Cw?si=OcbHYBsAsizxvR9t">Book tracking & availability system</a></td></tr>
-  <tr><td><strong>🎟 Movie Booking App</strong></td><td><a href="https://youtu.be/Ez6Cm533KPc?si=QaG8MtJLRKXmcilX">Book movie tickets online</a></td></tr>
-
-  <tr><td><strong>💬 Real-Time Chat App</strong></td><td><a href="https://youtu.be/CdfYt9P8lVs?si=unGm3bEDOzkTahql">Chat app using WebSockets</a></td></tr>
-  <tr><td><strong>🍔 FoodApp_DK</strong></td><td><a href="https://youtu.be/3KM3AmAcO84?si=9KkmvlsWtSNYiUB1">Digital restaurant order system</a></td></tr>
- 
+  <tr><td><strong>🔥 My Portfolio </strong></td><td><a href="https://mdinesh-portfolio.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>🔥 JDM Studio430 Website</strong></td><td><a href="https://jdm-studio430.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>Tech Hub430</strong></td><td><a href="https://tech-hub430.netlify.app/">VIEW</a></td></tr>
+  <tr><td><strong>JDM Park</strong></td><td><a href="https://jdm-park.netlify.app/">VIEW</a></td></tr>
 </table>
 
 <hr>
