@@ -23,7 +23,9 @@
 - 🎨 Founder & Freelancer @ JDM Studio430
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
-- 🤝 Open to collaborate for projects & works<br>
+- 🤝 Open to collaborate for projects & works
+- Work Stats :<br>[![Projects Done](https://custom-icon-badges.demolab.com/badge/_20+_Projects-7C3AED.svg?logo=rocket&style=for-the-badge&gradient=purple)](https://your-link) [![Client Satisfaction](https://custom-icon-badges.demolab.com/badge/_78%25Client_Satisfied-7C3AED.svg?logo=verified&style=for-the-badge&gradient=purple)](https://your-link)
+- My Digital Stats :<br>
   ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-2.5k-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-258-blue?logo=github)
 <hr>
 
