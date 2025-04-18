@@ -55,7 +55,7 @@
 
 ###
 <h3 align="center">
-  <p>Futured Projects</p>
+  <p>💡 Futured Projects</p>
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
@@ -109,7 +109,7 @@
 <h3 align="center">
   <p>💬 Fun Fact</p>
 
-> Coding is like magic; once you master the spells, the possibilities are endless! 📈✨
+> Coding is like magic; once you master the spells, the possibilities are endless..!📈🌟
 
 ---
 
