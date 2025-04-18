@@ -23,8 +23,9 @@
 - 🎨 Founder & Freelancer @ JDM Studio430
 - 💡 Ex-intern @ TechnoHacks EduTech, Cognifyz Technologies
 - 💬 Ask me about Tech & Design
-- 🤝 Open to collaborate for projects & works
+- 🤝 Open to collaborate for projects & works<br>
 
+  ![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Total_Views-2.5k-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Total_Stars-258-blue?logo=github)
 <hr>
 
 ###
@@ -81,16 +82,6 @@
     </a></td>
   </tr>
 </table>
-
-<hr>
-
-###
-<h3 align="center">
-  <p>👥 Profile View's</p>
-<div align="center">
- <img src="https://profile-counter.glitch.me/dineshit27/count.svg?"  />
-</div>
-<h3/>
 
 <hr>
 
