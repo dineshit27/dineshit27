@@ -3,7 +3,7 @@
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/DINESH_RESUME.pdf)
+[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/MDinesh.pdf)
 [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
 [![Website Badge](https://img.shields.io/badge/-Website-9b59b6?style=flat&logo=google-chrome&logoColor=white)](https://jdm-studio430.netlify.app/)
