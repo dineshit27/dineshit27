@@ -111,38 +111,6 @@
 <hr>
 
 <div align="center">
-  <h3>📜 Certifications</h3>
-  <table>
-    <tr>
-      <td><b>Programming in Python for Data Science</b></td>
-      <td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm" alt="IBM"/></td>
-    </tr>
-    <tr>
-      <td><b>Introduction to Artificial Intelligence</b></td>
-      <td><img src="https://img.shields.io/badge/IBM_Coursera-0056D2?style=flat-square&logo=coursera" alt="IBM Coursera"/></td>
-    </tr>
-    <tr>
-      <td><b>Supervised Machine Learning: Regression and Classification</b></td>
-      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
-    </tr>
-    <tr>
-      <td><b>Advanced Learning Algorithms</b></td>
-      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
-    </tr>
-    <tr>
-      <td><b>Data Structures and Algorithms</b></td>
-      <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy"/></td>
-    </tr>
-    <tr>
-      <td><b>Programming in C</b></td>
-      <td><img src="https://img.shields.io/badge/NPTEL-4285F4?style=flat-square" alt="NPTEL"/></td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
-<div align="center">
   <h3>🤖 Github Stats</h3>
   
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
