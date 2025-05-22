@@ -29,9 +29,10 @@
 - 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-3k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-360-blue?logo=github)
 <hr>
 
-###
-<h3 align="center">
-  <p>⚙️ Tech Skills</p>
+
+<div align="center">
+  <h3>⚙️ Tech Skills</h3>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -54,9 +55,8 @@
 
 <hr>
 
-###
-<h3 align="center">
-  <p>💡 Futured Projects</p>
+<div align="center">
+  <h3>💡 Futured Projects</h3>
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
@@ -86,27 +86,81 @@
 
 <hr>
 
-###
-<h3 align="center">
-  <p>🤖 Github Stats</p>
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2st_Place-NAKSHATRA'24-silver?style=for-the-badge" alt="Achievement"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-AURORA'24-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-SAURUS'24-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Place-MECH FLAREZ 2K24-gold?style=for-the-badge" alt="Achievement"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <table>
+    <tr>
+      <td><b>Programming in Python for Data Science</b></td>
+      <td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm" alt="IBM"/></td>
+    </tr>
+    <tr>
+      <td><b>Introduction to Artificial Intelligence</b></td>
+      <td><img src="https://img.shields.io/badge/IBM_Coursera-0056D2?style=flat-square&logo=coursera" alt="IBM Coursera"/></td>
+    </tr>
+    <tr>
+      <td><b>Supervised Machine Learning: Regression and Classification</b></td>
+      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
+    </tr>
+    <tr>
+      <td><b>Advanced Learning Algorithms</b></td>
+      <td><img src="https://img.shields.io/badge/Stanford_&_DeepLearning.AI-00505c?style=flat-square" alt="Stanford"/></td>
+    </tr>
+    <tr>
+      <td><b>Data Structures and Algorithms</b></td>
+      <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy"/></td>
+    </tr>
+    <tr>
+      <td><b>Programming in C</b></td>
+      <td><img src="https://img.shields.io/badge/NPTEL-4285F4?style=flat-square" alt="NPTEL"/></td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>🤖 Github Stats</h3>
   
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshit27&layout=compact&&langs_count=8"/>
 
 <hr>
 
-###
-<h3 align="center">
-  <p>👨‍💻 Leetcode Stats</p>
+<div align="center">
+  <h3>👨‍💻 Leetcode Stats</h3>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 <hr>
 
-###
-<h3 align="center">
-  <p>💬 Fun Fact</p>
+<div align="center">
+  <h3>💬 Fun Fact</h3>
 
 > Coding is like magic; once you master the spells, the possibilities are endless..!📈🌟
 
