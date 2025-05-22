@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/1st_Place-SAURUS'24-gold?style=for-the-badge" alt="Achievement"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/1st_Place-MECH FLAREZ 2K24-gold?style=for-the-badge" alt="Achievement"/>
+        <img src="https://img.shields.io/badge/2st_Place-MECH FLAREZ 2K24-silver?style=for-the-badge" alt="Achievement"/>
       </td>
     </tr>
   </table>
