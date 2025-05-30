@@ -20,9 +20,9 @@
 
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
-- 🛸 Founder & Lead Designer @ JDM Studio430
+- 🛸 Founder & Graphic Designer @ JDM Studio430
 - 👨‍💻 Front-end Developer @ NexusHive
-- 💡 Ex-intern @ TechnoHacks Solution, Cognifyz Technologies
+- 💡 Intern @ Makos Infotech
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
 - 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-20-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
