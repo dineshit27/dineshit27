@@ -2,7 +2,7 @@
 <div align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-jdm430d07/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://mdinesh-portfolio.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/MDinesh.pdf)
 [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
@@ -26,7 +26,7 @@
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
 - 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-20-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-2.5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-3k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-360-blue?logo=github)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-4k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-360-blue?logo=github)
 <hr>
 
 
