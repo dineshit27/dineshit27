@@ -60,7 +60,13 @@
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
-    <td><a href="https://mdinesh-portfolio.netlify.app/">
+    <td><a href="https://m-dinesh-30.web.app/">
+      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>FoodieHub430</strong></td>
+    <td><a href="https://foodie-hub430.netlify.app/about_us">
       <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
     </a></td>
   </tr>
