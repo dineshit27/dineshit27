@@ -93,30 +93,6 @@
 <hr>
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2nd_Place-NAKSHATRA'24-silver?style=for-the-badge" alt="Achievement"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/1st_Place-AURORA'24-gold?style=for-the-badge" alt="Achievement"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/1st_Place-SAURUS'24-gold?style=for-the-badge" alt="Achievement"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2nd_Place-MECH FLAREZ 2K24-silver?style=for-the-badge" alt="Achievement"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
-<div align="center">
   <h3>🤖 Github Stats</h3>
   
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
