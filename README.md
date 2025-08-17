@@ -32,26 +32,8 @@
 
 <div align="center">
   <h3>⚙️ Tech Skills</h3>
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PicsArt](https://img.shields.io/badge/PicsArt-FF4088?style=for-the-badge&logo=picsart&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)  ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Cursor](https://img.shields.io/badge/-Cursor-4285F4?logo=cursor&logoColor=white)
 
 <hr>
 
