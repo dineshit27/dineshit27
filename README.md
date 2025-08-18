@@ -6,7 +6,6 @@
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/Dinesh_Resume1.pdf)
 [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dinesh_coder30/)
-[![Website Badge](https://img.shields.io/badge/-Website-9b59b6?style=flat&logo=google-chrome&logoColor=white)](https://jdm-studio430.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450)
 <a href="https://www.instagram.com/_dinx_pvt_430/">
