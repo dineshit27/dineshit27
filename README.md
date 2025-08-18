@@ -26,7 +26,7 @@
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
 - 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-5k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-4k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-500-blue?logo=github)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-7k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-5k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-500-blue?logo=github)
 <hr>
 
 
