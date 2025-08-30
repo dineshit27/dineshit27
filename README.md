@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
       </a>
       <a href="https://github.com/dineshit27/portfolio-web-pvt">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+        <img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
