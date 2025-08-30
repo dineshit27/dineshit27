@@ -58,7 +58,7 @@
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Aquawatt Website">
       </a>
       <a href="https://github.com/dineshit27/aquawatt-org">
-        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
       </a>
       <a href="https://github.com/dineshit27/tumour-spotter-ai">
-        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
       </a>
       <a href="https://github.com/dineshit27/FoodieHub430">
-        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
@@ -94,7 +94,7 @@
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
       </a>
       <a href="https://github.com/dineshit27/jdm-studio430-website">
-        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
   </tr>
