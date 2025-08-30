@@ -41,35 +41,65 @@
 <table align="center">
   <tr>
     <td><strong>My Portfolio Website</strong></td>
-    <td><a href="https://m-dinesh-30.web.app/">
-      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
-    </a></td>
+    <td>
+      <a href="https://m-dinesh-30.web.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
+      </a>
+      <a href="https://github.com/dineshit27/portfolio-web-pvt">
+        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
   </tr>
+
+  <tr>
+    <td><strong>Aquawatt Solutions</strong></td>
+    <td>
+      <a href="https://aquawatt-org.web.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Aquawatt Website">
+      </a>
+      <a href="https://github.com/dineshit27/aquawatt-org">
+        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI Powered Brain Tumour Detector</strong></td>
+    <td>
+      <a href="https://tumour-spotter-ai.lovable.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
+      </a>
+      <a href="https://github.com/dineshit27/tumour-spotter-ai">
+        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td><strong>FoodieHub430</strong></td>
-    <td><a href="https://foodie-hub430.netlify.app/about_us">
-      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
-    </a></td>
+    <td>
+      <a href="https://foodie-hub430.netlify.app/about_us">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
+      </a>
+      <a href="https://github.com/dineshit27/FoodieHub430">
+        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
   </tr>
+
   <tr>
     <td><strong>JDM Studio430 Website</strong></td>
-    <td><a href="https://jdm-studio430.netlify.app/">
-      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
-    </a></td>
-  </tr>
-  <tr>
-    <td><strong>Tech Hub430 Website</strong></td>
-    <td><a href="https://tech-hub430.netlify.app/">
-      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Tech Hub430">
-    </a></td>
-  </tr>
-  <tr>
-    <td><strong>JDM Park Website</strong></td>
-    <td><a href="https://jdm-park.netlify.app/">
-      <img src="https://img.shields.io/badge/VIEW-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Park">
-    </a></td>
+    <td>
+      <a href="https://jdm-studio430.netlify.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
+      </a>
+      <a href="https://github.com/dineshit27/jdm-studio430-website">
+        <img src="https://img.shields.io/badge/VIEW REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
   </tr>
 </table>
+
 
 <hr>
 
