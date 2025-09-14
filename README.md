@@ -66,10 +66,22 @@
   <tr>
     <td><strong>AI Powered Brain Tumour Detector</strong></td>
     <td>
-      <a href="https://tumour-spotter-ai.lovable.app/">
+      <a href="https://brain-tumour-ai.web.app/">
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
       </a>
-      <a href="https://github.com/dineshit27/tumour-spotter-ai">
+      <a href="https://github.com/dineshit27/Brain-Tumour-Detector">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>SportsAI</strong></td>
+    <td>
+      <a href="https://sports-ai27.web.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
+      </a>
+      <a href="https://github.com/dineshit27/SportsAI">
         <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
