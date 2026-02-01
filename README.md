@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <h3>⚙️ Tech Stacks</h3>
+  <h3>🤖 Tech Stacks</h3>
   
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 
@@ -49,22 +49,10 @@
   <h3>💡 Futured Projects</h3>
 <table align="center">
   <tr>
-    <td><strong>My Portfolio Website</strong></td>
-    <td>
-      <a href="https://m-dinesh-30.web.app/">
-        <img src="https://img.shields.io/badge/VIEW DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
-      </a>
-      <a href="https://github.com/dineshit27/portfolio-web-pvt">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
     <td><strong>Aquawatt Solutions</strong></td>
     <td>
-      <a href="https://aquawatt-org.web.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Aquawatt Website">
+      <a href="https://aquawatt-hub.web.app/">
+        <img src="https://img.shields.io/badge/VIEW DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
       </a>
       <a href="https://github.com/dineshit27/aquawatt-org">
         <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -73,12 +61,24 @@
   </tr>
 
   <tr>
-    <td><strong>AI Powered Brain Tumour Detector</strong></td>
+    <td><strong>NeuroScan AI</strong></td>
     <td>
-      <a href="https://brain-tumour-ai.web.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
+      <a href="https://neuroscan-aio.web.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
       </a>
-      <a href="https://github.com/dineshit27/Brain-Tumour-Detector">
+      <a href="https://github.com/dineshit27/NeuroScan-AI">
+        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>MR Builder Site</strong></td>
+    <td>
+      <a href="https://mr-builder-world.web.app/">
+        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
+      </a>
+      <a href="https://github.com/dineshit27/MR-Builder-Business-Site">
         <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
@@ -91,30 +91,6 @@
         <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
       </a>
       <a href="https://github.com/dineshit27/SportsAI">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>FoodieHub430</strong></td>
-    <td>
-      <a href="https://foodie-hub430.netlify.app/about_us">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
-      </a>
-      <a href="https://github.com/dineshit27/FoodieHub430">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>JDM Studio430 Website</strong></td>
-    <td>
-      <a href="https://jdm-studio430.netlify.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
-      </a>
-      <a href="https://github.com/dineshit27/jdm-studio430-website">
         <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
