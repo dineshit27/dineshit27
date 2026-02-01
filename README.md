@@ -51,52 +51,34 @@
   <h3>💡 Futured Projects</h3>
 <table align="center">
   <tr>
-    <td><strong>Aquawatt</strong></td>
-    <td>
-      <a href="https://aquawatt-hub.web.app/">
-        <img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
-      </a>
-      <a href="https://github.com/dineshit27/aquawatt-org">
-        <img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+  <td><strong>Aquawatt</strong></td>
+  <td>
+    <a href="https://aquawatt-hub.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/aquawatt-org"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
+  </td>
+</tr>
+
 
   <tr>
-    <td><strong>NeuroScan AI</strong></td>
-    <td>
-      <a href="https://neuroscan-aio.web.app/">
-        <img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
-      </a>
-      <a href="https://github.com/dineshit27/NeuroScan-AI">
-        <img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+  <td><strong>NeuroScan AI</strong></td>
+  <td>
+    <a href="https://neuroscan-aio.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/NeuroScan-AI"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
+  </td>
+</tr>
 
-  <tr>
-    <td><strong>MR Builder Site</strong></td>
-    <td>
-      <a href="https://mr-builder-world.web.app/">
-        <img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project">
-      </a>
-      <a href="https://github.com/dineshit27/MR-Builder-Business-Site">
-        <img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td><strong>MR Builder Site</strong></td>
+  <td>
+    <a href="https://mr-builder-world.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/MR-Builder-Business-Site"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
+  </td>
+</tr>
 
-  <tr>
-    <td><strong>SportsAI</strong></td>
-    <td>
-      <a href="https://sports-ai27.web.app/">
-        <img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
-      </a>
-      <a href="https://github.com/dineshit27/SportsAI">
-        <img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td><strong>SportsAI</strong></td>
+  <td>
+    <a href="https://sports-ai27.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/SportsAI"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
+  </td>
+</tr>
+
 </table>
 
 
