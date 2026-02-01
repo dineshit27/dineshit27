@@ -110,7 +110,7 @@
 <hr>
 
 <div align="left">
-  <h3>💬 Fun Fact</h3>
+  <h3>💬 Dev Fact</h3>
   
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
