@@ -113,4 +113,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,markdown,react,redux,vite,bootstrap,tailwindcss,nodejs,mysql,git,firebase,supabase)](https://skillicons.dev)
+### ❤️Thanks You for Visiting my GitHub profile!!
