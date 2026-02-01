@@ -94,12 +94,12 @@
 
 ### 🏅 LeetCode Achievements
 <p>
-  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="70" />
-  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" height="70" />
-  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" height="70" />
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" height="70" />
-  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" height="70" />
-  <img src="https://assets.leetcode.com/static_assets/others/Quest_Data_Large.png" height="70" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="60" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" height="60" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" height="60" />
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" height="60" />
+  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" height="60" />
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_Data_Large.png" height="60" />
 </p>
 
 <hr>
