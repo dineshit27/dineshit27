@@ -33,7 +33,7 @@
 <div align="center">
   <h3>🤖 Tech Stacks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,react,redux,vite,bootstrap,tailwindcss,nodejs,mysql,git,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,react,bootstrap,tailwindcss,nodejs,mysql,mongodb,git,firebase,supabase)](https://skillicons.dev)
 
 <hr>
 
