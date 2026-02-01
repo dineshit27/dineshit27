@@ -20,12 +20,12 @@
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Web Developer
 - 🛸 Graphic Designer @ Wyntrix
-- 👨‍💻 Front-end Developer @ NexusHive
+- 👨‍💻 Developer & Trainee @ MaxGroo Hub
 - 💡 Intern @ Makos Infotech Private Limited
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
-- 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-7k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-5k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-500-blue?logo=github)
+- 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-84%25-blue?logo=linkedin)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-15k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-10k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)
 <hr>
 
 
