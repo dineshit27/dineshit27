@@ -109,13 +109,9 @@
 
 <hr>
 
-<div align="center">
+<div align="left">
   <h3>💬 Fun Fact</h3>
-
-> Coding is like magic; once you master the spells, the possibilities are endless..!📈🌟
+  
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
-<div align="center">
-  <em>Feel free to reach out or check out my repositories! Let's innovate together..! 🚀</em>
-</div>
