@@ -109,6 +109,15 @@
 
 <hr>
 
+<div align="center">
+  <h3>👾 GitHub Stats</h3>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshit27&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshit27&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
+
+---
+
 <div align="left">
   <h3>💬 Dev Fact</h3>
   
