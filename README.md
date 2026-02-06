@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/tbanner.png" alt="MR Builder Banner" width="100%"/>
+</p>
+
+---
+
 <h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/m-dinesh-d30/">DINESH</a> </h2>
 <div align="center">
   
