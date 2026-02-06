@@ -4,7 +4,6 @@
 
 ---
 
-<h2 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/m-dinesh-d30/">DINESH</a> </h2>
 <div align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-d30/)
