@@ -2,7 +2,9 @@
   <img src="images/tbanner.png" alt="MR Builder Banner" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Graphic+Designer;UI/UX+Designer;Professional+Freelancer;DSA+and+JAVA+enthusiast;React.js+%7C+Node.js" />
+</p>
 
 <div align="center">
   
