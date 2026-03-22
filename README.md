@@ -32,8 +32,8 @@
 - 💡 Intern @ Makos Infotech Private Limited
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
-- 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-84%25-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-15k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-10k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)  ![Visitor Count](https://komarev.com/ghpvc/?username=dineshit27)
+- 📑 Work Stats :<br>![Projects](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-84%25-blue?logo=linkedin)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-15k%2B_Followers-0077B5?style=plastic&logo=linkedin&logoColor=white) ![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)  ![Visitor Count](https://komarev.com/ghpvc/?username=dineshit27)
 <hr>
 
 
