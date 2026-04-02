@@ -118,6 +118,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshit27&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshit27&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dineshit27&theme=sakura-x&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
