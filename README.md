@@ -7,14 +7,12 @@
 </p>
 
 <div align="center">
-  
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-dinesh-d30/)
-[![X Badge](https://img.shields.io/badge/-X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/mr_dinesh_io)
+[![X Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/mr_dinesh_io)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918122129450)
-<a href="https://www.instagram.com/_dinx_pvt_430/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="View Instagram">
-</a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ffboii_dinzzz)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/dineshit27/dineshit27/raw/main/myresume.pdf)
 [![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
@@ -38,20 +36,13 @@
 
 
 <div align="center">
-  <h3>🤖 Tech Stacks</h3>
+  <h3>🤖 Skills & Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,react,bootstrap)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,redux,materialui)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,nodejs,mysql,mongodb,git,firebase,supabase)](https://skillicons.dev)
-
-
-<hr>
-
-<div align="center">
-  <h3>⚙️ Tools & Platforms</h3>
-
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  ![Cursor](https://img.shields.io/badge/-Cursor%20IDE-000000?logo=cursor&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Notion AI](https://img.shields.io/badge/-Notion%20AI-000000?logo=notion&logoColor=white)  ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)
+[![Tech Stack](https://skillicons.dev/icons?i=tailwind,bootstrap,threejs,firebase,supabase,fastapi,mysql,mongodb,postman,tensorflow)](https://skillicons.dev)
+<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,notion,replit,gcp)](https://skillicons.dev)
  
 <hr>
 
