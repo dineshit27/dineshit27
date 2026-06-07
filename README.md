@@ -26,13 +26,13 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 🎓 B.tech IT student @ SIT
-- 💻 Aspiring Web Developer
+- 💻 Aspiring Full Stack Developer
 - 🛸 Graphic Designer @ Wyntrix
 - 👨‍💻 Developer & Trainee @ MaxGroo Hub
-- 💡 Intern @ Makos Infotech Private Limited
+- 💡 Ex-Intern @ Makos Infotech Private Limited
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
-- 📑 Work Stats :<br>![Projects](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-84%25-blue?logo=linkedin)
+- 📑 Work Stats :<br>![Projects](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-92%25-blue?logo=linkedin) ![Years of Experience](https://img.shields.io/badge/Years_of_Experience-5-blue?logo=linkedin)
 - 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-15k%2B_Followers-0077B5?style=plastic&logo=linkedin&logoColor=white) ![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)  ![Github Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dineshit27&label=Github+Profile+Views&query=$.public_repos&logo=github&style=flat)
 <hr>
 
