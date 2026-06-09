@@ -22,8 +22,8 @@
 
 - 🎓 B.tech IT student @ SIT
 - 💻 Aspiring Full Stack Developer
-- 🛸 Graphic Designer @ Wyntrix
 - 👨‍💻 Developer & Trainee @ MaxGroo Hub
+- 🛸 Graphic Designer @ Wyntrix
 - 💡 Ex-Intern @ Makos Infotech Private Limited
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
