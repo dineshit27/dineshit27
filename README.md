@@ -28,7 +28,7 @@
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate for projects & works
 - 📑 Work Stats :<br>![Projects](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-92%25-blue?logo=linkedin) ![Years of Experience](https://img.shields.io/badge/Years_of_Experience-5-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-15k%2B_Followers-0077B5?style=plastic&logo=linkedin&logoColor=white) ![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)  ![Github Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dineshit27&label=Github+Profile+Views&query=$.public_repos&logo=github&style=flat)
+- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-15k%2B_Followers-0077B5?style=plastic&logo=linkedin&logoColor=white)![Total Stars](https://img.shields.io/badge/Stars-600-blue?logo=github)![Github Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dineshit27&label=Github+Profile+Views&query=$.public_repos&logo=github&style=flat)
 <hr>
 
 
