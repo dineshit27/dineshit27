@@ -59,7 +59,7 @@
 <td>
 <para>Advanced Water & Electricity Usage Monitoring App. Built with React, Node.js, Supabase, ESP32, MQTT Protocol & Embedded System</para>
   
-[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/aquawatt-org)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://aquawatt-hub.web.app/)
 </td>
 </tr>
@@ -70,7 +70,7 @@
 <td>
 <para> AI-powered Brain Tumour Detector System. Built with React, Node.js, Supabase, Gemini API</para>
 
-[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/NeuroScan-AI)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://neuroscan-aio.web.app/)
 
 </td>
@@ -90,7 +90,7 @@
 <td>
 <para>A website to showcase my skills, services, projects, experience, achievements, certificates, and more</para>
 
-[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/portfolio-web-pvt)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://m-dinesh-30.web.app/)
 </td>
 </tr>
@@ -110,7 +110,7 @@
 <td>
 <para>Freelance project. Built with React, Redux, Open source CLI, 3d motion, Firebase, and more</para>
 
-[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/MR-Builder-Business-Site)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://maxgroo-hub.web.app/)
 </td>
 </tr>
