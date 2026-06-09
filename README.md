@@ -79,7 +79,7 @@
 <tr>
 <td>Data Analyst - AI Automation</td>
 <td>
-<para>AI Automation Workflow for Data Analytics. Built with n8n, Excel Key, Gemini Model and more</para>
+<para>AI Automation Workflow for Data Analysis. Built with n8n, Excel Key, Gemini Model and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 ![Made With](https://img.shields.io/badge/Made%20With-n8n-EA4B71?logo=n8n&logoColor=white)</td>
@@ -88,7 +88,7 @@
 <tr>
 <td>Portfolio Website</td>
 <td>
-<para>A website to showcase my skills, projects, experience, achievements, certificates and more</para>
+<para>A website to showcase my skills, services, projects, experience, achievements, certificates and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
@@ -98,7 +98,7 @@
 <tr>
 <td>MaxGroo Hub Site</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para>1st Animated Freelance project. Built with React, Open source CLI, Framer, 3d motion, Firebase and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
@@ -108,7 +108,7 @@
 <tr>
 <td>LibraVault</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para>Modern Library Management System. Built with React, 3d motion, Framer, GSAP, Node.js, Supabase, Firebase</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
