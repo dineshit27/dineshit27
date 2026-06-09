@@ -46,34 +46,66 @@
 <div align="center">
   <h3>💡 Futured Projects</h3>
 <table align="center">
-  <tr>
-  <td><strong>Aquawatt</strong></td>
-  <td>
-    <a href="https://aquawatt-hub.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/aquawatt-org"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
-  </td>
-</tr>
 
+<table align="center">
 
-  <tr>
-  <td><strong>NeuroScan AI</strong></td>
-  <td>
-    <a href="https://neuroscan-aio.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/NeuroScan-AI"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
-  </td>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Link</th>
+<th>Repo</th>
 </tr>
 
 <tr>
-  <td><strong>MR Builder Site</strong></td>
-  <td>
-    <a href="https://mr-builder-world.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/MR-Builder-Business-Site"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
-  </td>
+<td>Aquawatt : Water & Electricity Usage Monitoring App</td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</td>
+<td>
+<a href="https://alpha-speedfrontend.onrender.com/">View Live</a>
+</td>
+</tr>
+
+
+<tr>
+<td>NeuroScan : AI-powered Brain Tumour Detector</td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+</td>
+<td>
+<a href="https://tradezen-three.vercel.app/">View Live</a>
+</td>
 </tr>
 
 <tr>
-  <td><strong>SportsAI</strong></td>
-  <td>
-    <a href="https://sports-ai27.web.app/"><img src="https://img.shields.io/badge/DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Project"></a>&nbsp;<a href="https://github.com/dineshit27/SportsAI"><img src="https://img.shields.io/badge/REPO-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo"></a>
-  </td>
+<td>Portfolio Website</td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Particles.js-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</td>
+<td>
+<a href="https://sazidsheikhportfolio.vercel.app/">View Live</a>
+</td>
 </tr>
+
 
 </table>
 
