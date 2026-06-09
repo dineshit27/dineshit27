@@ -51,58 +51,87 @@
 
 <tr>
 <th>Project</th>
-<th>Tech Stack</th>
-<th>Link</th>
-<th>Repo</th>
+<th>Description & Links</th>
 </tr>
 
 <tr>
-<td>Aquawatt : Water & Electricity Usage Monitoring App</td>
+<td>Aquawatt Hub</td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
-</td>
-<td>
-<a href="https://alpha-speedfrontend.onrender.com/">View Live</a>
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+  
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
+![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
 </td>
 </tr>
 
 
 <tr>
-<td>NeuroScan : AI-powered Brain Tumour Detector</td>
+<td>NeuroScan AI</td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
+![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
 </td>
+</tr>
+
+<tr>
+<td>Data Analyst - AI Automation</td>
 <td>
-<a href="https://tradezen-three.vercel.app/">View Live</a>
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-n8n-61DAFB?logo=n8n)
 </td>
 </tr>
 
 <tr>
 <td>Portfolio Website</td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Particles.js-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 </td>
+</tr>
+
+<tr>
+<td>MaxGroo Hub Site</td>
 <td>
-<a href="https://sazidsheikhportfolio.vercel.app/">View Live</a>
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
+</td>
+</tr>
+
+<tr>
+<td>LibraVault</td>
+<td>
+<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
+![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
 </td>
 </tr>
 
