@@ -57,7 +57,7 @@
 <tr>
 <td>Aquawatt Hub</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para>Advanced Water & Electricity Usage Monitoring App. Built with react & supabase. Powered by ESP32, MQTT Protocol & Embedded System</para>
   
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
