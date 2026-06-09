@@ -111,7 +111,7 @@
 <para>Freelance project. Built with React, Redux, Open source CLI, 3d motion, Firebase, and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/MR-Builder-Business-Site)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://maxgroo-hub.web.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://mr-builder-world.web.app/)
 </td>
 </tr>
 
