@@ -62,8 +62,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
-![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
 </td>
 </tr>
 
@@ -76,8 +74,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
-![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
+
 </td>
 </tr>
 
@@ -100,7 +97,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 </td>
 </tr>
 
@@ -112,7 +108,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 </td>
 </tr>
 
@@ -124,8 +119,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
-![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
 </td>
 </tr>
 
