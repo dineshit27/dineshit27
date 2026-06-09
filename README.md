@@ -61,7 +61,6 @@
   
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
@@ -76,7 +75,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
@@ -89,7 +87,6 @@
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-n8n-61DAFB?logo=n8n)
 </td>
@@ -102,7 +99,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 </td>
@@ -115,7 +111,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 </td>
@@ -128,7 +123,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![Version](https://img.shields.io/badge/Version-v1.0-blueviolet?logo=git)
 ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-React-61DAFB?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase)
