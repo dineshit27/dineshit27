@@ -60,7 +60,7 @@
 <para>Advanced Water & Electricity Usage Monitoring App. Built with React, Node.js, Supabase, ESP32, MQTT Protocol & Embedded System</para>
   
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://aquawatt-hub.web.app/)
 </td>
 </tr>
 
@@ -71,7 +71,7 @@
 <para> AI-powered Brain Tumour Detector System. Built with React, Node.js, Supabase, Gemini API</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://neuroscan-aio.web.app/)
 
 </td>
 </tr>
@@ -88,20 +88,20 @@
 <tr>
 <td>Portfolio Website</td>
 <td>
-<para>A website to showcase my skills, services, projects, experience, achievements, certificates and more</para>
+<para>A website to showcase my skills, services, projects, experience, achievements, certificates, and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://m-dinesh-30.web.app/)
 </td>
 </tr>
 
 <tr>
 <td>MaxGroo Hub Site</td>
 <td>
-<para>1st Animated Freelance project. Built with React, Open source CLI, Framer, 3d motion, Firebase and more</para>
+<para>1st Animated Freelance project. Built with React, Open source CLI, Framer, 3d motion, Firebase, and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://maxgroo-hub.web.app/)
 </td>
 </tr>
 
@@ -111,7 +111,7 @@
 <para>Modern Library Management System. Built with React, 3d motion, Framer, GSAP, Node.js, Supabase, Firebase</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://libra-vault-xo.web.app/)
 </td>
 </tr>
 
