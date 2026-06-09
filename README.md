@@ -132,13 +132,12 @@
 <hr>
 
 <div align="center">
-  <h3>👨‍💻 Leetcode Stats</h3>
+  <h3>👨‍💻 Leetcode Stats & Achievements</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
 
-### 🏅 LeetCode Achievements
 <p>
   <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="60" />
   <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" height="60" />
