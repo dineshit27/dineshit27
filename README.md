@@ -165,5 +165,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=dineshit27&color=7c3aed&style=flat-square&label=Profile+Views)
 ### Thanks for stopping by 💙!!
