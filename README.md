@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  <h3>🤖 Skills & Technologies</h3>
+  <h2>🤖 Skills & Technologies</h2>
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,redux,materialui)](https://skillicons.dev)
 <br>
@@ -44,7 +44,7 @@
 <hr>
 
 <div align="center">
-  <h3>💡 Futured Projects</h3>
+  <h2>💡 Futured Projects</h2>
 <table align="center">
 
 <table align="center">
@@ -132,7 +132,7 @@
 <hr>
 
 <div align="center">
-  <h3>👨‍💻 Leetcode Stats & Achievements</h3>
+  <h2>👨‍💻 Leetcode Stats & Achievements</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
@@ -151,21 +151,19 @@
 <hr>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
+  <h2>🏆 GitHub Trophies</h2>
   
 ![](https://github-trophies.vercel.app/?username=dineshit27&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 
 <div align="center">
-  <h3>👾 GitHub Stats</h3>
+  <h2>👾 GitHub Stats</h2>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshit27&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshit27&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/dineshit27/dineshit27/output/snake.svg" alt="Snake animation" />
 
 ---
