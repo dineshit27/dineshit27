@@ -165,6 +165,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
 
 ---
-[![Dinesh M profile views](https://u8views.com/api/v1/github/profiles/185935032/views/day-week-month-total-count.svg)](https://u8views.com/github/dineshit27)
 
 ### Thanks for stopping by 💙!!
