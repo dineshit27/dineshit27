@@ -106,6 +106,16 @@
 </tr>
 
 <tr>
+<td>MR Builder Site</td>
+<td>
+<para>Freelance project. Built with React, Redux, Open source CLI, 3d motion, Firebase, and more</para>
+
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://maxgroo-hub.web.app/)
+</td>
+</tr>
+
+<tr>
 <td>LibraVault</td>
 <td>
 <para>Modern Library Management System. Built with React, 3d motion, Framer, GSAP, Node.js, Supabase, Firebase</para>
