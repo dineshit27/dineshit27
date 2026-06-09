@@ -73,7 +73,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 
 </td>
 </tr>
@@ -84,7 +83,6 @@
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 ![Made With](https://img.shields.io/badge/Made%20With-n8n-61DAFB?logo=n8n)
 </td>
 </tr>
@@ -96,7 +94,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 </td>
 </tr>
 
@@ -107,7 +104,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 </td>
 </tr>
 
@@ -118,7 +114,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 </td>
 </tr>
 
