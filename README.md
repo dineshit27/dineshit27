@@ -164,6 +164,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshit27&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshit27&theme=github_dark)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dineshit27/dineshit27/output/snake.svg" alt="Snake animation" />
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshit27&color=7c3aed&style=flat-square&label=Profile+Views)
 ### Thanks for stopping by 💙!!
