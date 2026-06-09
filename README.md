@@ -104,6 +104,13 @@
 <hr>
 
 <div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  
+![](https://github-trophies.vercel.app/?username=dineshit27&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
+
+<div align="center">
   <h3>👾 GitHub Stats</h3>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshit27&theme=github_dark)
