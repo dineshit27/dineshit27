@@ -59,9 +59,8 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
   
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
 </td>
 </tr>
 
@@ -71,7 +70,7 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 
 </td>
@@ -82,9 +81,8 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
-![Made With](https://img.shields.io/badge/Made%20With-n8n-61DAFB?logo=n8n)
-</td>
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
+![Made With](https://img.shields.io/badge/Made%20With-n8n-EA4B71?logo=n8n&logoColor=white)</td>
 </tr>
 
 <tr>
@@ -92,7 +90,7 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 </td>
 </tr>
@@ -102,7 +100,7 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 </td>
 </tr>
@@ -112,7 +110,7 @@
 <td>
 <para>Aquawatt : Water & Electricity Usage Monitoring App</para>
 
-![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
 </td>
 </tr>
