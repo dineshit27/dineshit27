@@ -57,7 +57,7 @@
 <tr>
 <td>Aquawatt Hub</td>
 <td>
-<para>Advanced Water & Electricity Usage Monitoring App. Built with React, Supabase, ESP32, MQTT Protocol & Embedded System</para>
+<para>Advanced Water & Electricity Usage Monitoring App. Built with React, Node.js, Supabase, ESP32, MQTT Protocol & Embedded System</para>
   
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
@@ -68,7 +68,7 @@
 <tr>
 <td>NeuroScan AI</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para> AI-powered Brain Tumour Detector System. Built with React, Node.js, Supabase, Gemini API</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
@@ -79,7 +79,7 @@
 <tr>
 <td>Data Analyst - AI Automation</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para>AI Automation Workflow for Data Analytics. Built with n8n, Excel Key, Gemini Model and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 ![Made With](https://img.shields.io/badge/Made%20With-n8n-EA4B71?logo=n8n&logoColor=white)</td>
@@ -88,7 +88,7 @@
 <tr>
 <td>Portfolio Website</td>
 <td>
-<para>Aquawatt : Water & Electricity Usage Monitoring App</para>
+<para>A website to showcase my skills, projects, experience, achievements, certificates and more</para>
 
 [![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/username/repository)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-demo-link.com)
