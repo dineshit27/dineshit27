@@ -54,6 +54,16 @@
 </tr>
 
 <tr>
+<td>Procura AI</td>
+<td>
+<para>AI-powered procurement platform that streamlines purchasing, spending controls, approvals, and payments.</para>
+  
+[![Source Code](https://img.shields.io/badge/Source-Code-10B981?style=flat&logo=github&logoColor=white)](https://github.com/dineshit27/procura-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-blue?style=flat&logo=googlechrome&logoColor=white)](https://procura-io.onrender.com/)
+</td>
+</tr>
+
+<tr>
 <td>Aquawatt Hub</td>
 <td>
 <para>Advanced Water & Electricity Usage Monitoring App. Built with React, Node.js, Supabase, ESP32, MQTT Protocol & Embedded System</para>
